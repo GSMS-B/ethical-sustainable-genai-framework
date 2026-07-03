@@ -118,7 +118,6 @@ The IEEE-formatted research paper is available in the `paper/` directory.
 
 **Bugatha Ganasyam Mani Sankar**  
 📧 ganasyammanisankarbugatha@gmail.com  
-📱 +91 9391934047  
 🏫 JNTU-GV College of Engineering, Vizianagaram
 
 ---

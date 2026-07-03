@@ -3,7 +3,7 @@
 **Author:** Bugatha Ganasyam Mani Sankar  
 **Institution:** JNTU-GV College of Engineering, Vizianagaram  
 **Mentor:** Mohammad Sameer (Generative AI Developer, Phinerd)  
-**Year:** Pre-Final Year (2027)
+**Year:** Final Year (2027)
 
 ---
 
